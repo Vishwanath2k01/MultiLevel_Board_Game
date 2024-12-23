@@ -1,0 +1,19 @@
+.game {
+    text-align: center;
+    margin: 20px;
+    border: 5px solid black;
+    width: 500px;
+  }
+  
+  .game-info {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  p {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+  }
+  
